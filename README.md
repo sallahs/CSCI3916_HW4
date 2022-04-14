@@ -1,4 +1,4 @@
-# CSC3916_HW4
+# CSCI3916_HW4
 
 [Client](https://csci3916-h5.herokuapp.com/#/signin)
 
